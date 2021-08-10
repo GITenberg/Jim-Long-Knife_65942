@@ -1,16 +1,21 @@
 _repo: Jim-Long-Knife_65942
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Gringhuis, Dirk
     gutenberg_agent_id: '53559'
     url: http://www.gutenberg.org/2009/agents/53559
+covers:
+- cover_type: archival
+  image_path: 65942-h/images/cover.jpg
 creator:
   author:
     agent_name: Taylor, Florance Walton
     gutenberg_agent_id: '53558'
     url: http://www.gutenberg.org/2009/agents/53558
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65942#Jim-Long-Knife
 gutenberg_issued: '2021-07-28'
 gutenberg_type: Text
 identifiers:
